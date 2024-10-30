@@ -3,7 +3,7 @@
 % domain to a triangle. Input is a planar mesh and 3 boundary points given
 % in counter clockwise orientation
 %
-% Code written by Nadav Dym and Raz Slutsky. inquiries about the code can be sent to
+% Code written by Nadav Dym and Raz Slutsky, based on previous code by Noam Eigerman. inquiries about the code can be sent to
 % nadavdym@gmail.com
 % Please cite
 % "A Linear Variational Principle for Riemann Mappings and Discrete
