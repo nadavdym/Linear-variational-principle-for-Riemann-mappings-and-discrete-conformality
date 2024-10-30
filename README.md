@@ -4,7 +4,8 @@ in counter clockwise orientation. Code was written by Nadav Dym and Raz Slutsky,
 nadavdym@gmail.com.
 
 If you use these codes in an academic paper, please cite
+
  [1] "A Linear Variational Principle for Riemann Mappings and Discrete
  Conformality" Dym, Lipman, Slutsky
- and
+
  [2] "Orbifold Tutte embeddings" Aigerman and Lipman
